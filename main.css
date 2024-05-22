@@ -1,0 +1,49 @@
+html {
+  font-size: 22px;
+}
+
+body {
+  background-color: rgb(194, 210, 224);
+  color: rgb(69, 53, 53);
+  min-height: 100vh;
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 1rem;
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;  
+}
+hr {
+  border: 2px dashed yellow;
+}
+
+h1 {
+  color: black;
+  font-size: 50px;
+}
+
+figure {
+    position: relative;
+    margin: 0;  
+}
+
+figcaption {
+    position: absolute;
+    top: 100%;  
+    left: 0;
+    right: 0;
+    text-align: left;
+    padding: 0;  
+}
+
+figure img {
+    display: block;
+    width: 100%;  
+    height: auto;  
+    margin-bottom: 0; 
+}
+
+
+
+
+
+
